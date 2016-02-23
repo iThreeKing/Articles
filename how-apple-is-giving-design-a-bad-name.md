@@ -6,12 +6,13 @@
 * 状态 :  翻译完成
 
 苹果正在带坏整个设计圈
-------------------
+======================
 曾几何时，苹果公司因为产品设计易用、易于理解而闻名。作为图形用户界面的冠军，它总是能够让用户知道可以进行什么操作，清楚地了解如何进行这些操作，收到关于操作结果的明确反馈，并且有权力撤销与预期不符的操作。
 
-No more. Now, although the products are indeed even more beautiful than before, that beauty has come at a great price. Gone are the fundamental principles of good design: discoverability, feedback, recovery, and so on. Instead, Apple has, in striving for beauty, created fonts that are so small or thin, coupled with low contrast, that they are difficult or impossible for many people with normal vision to read. We have obscure gestures that are beyond even the developer’s ability to remember. We have great features that most people don’t realize exist.
+现在却不再如此，尽管现在的产品的确比之前的更漂亮，然而是付出了巨大的代价换来的。优秀设计的基础原则已经一去不复返：可发现性、反馈、恢复等等。作为替代，苹果公司致力于追求美观，创造出的字体很小或者很细，再加上低对比度，许多视力正常的人都很难或者根本无法阅读这些字。我们甚至有连开发者都记不住的复杂手势，我们也有大部分人都不会注意到的优秀特性。
 
 The products, especially those built on iOS, Apple’s operating system for mobile devices, no longer follow the well-known, well-established principles of design that Apple developed several decades ago. These principles, based on experimental science as well as common sense, opened up the power of computing to several generations, establishing Apple’s well-deserved reputation for understandability and ease of use. Alas, Apple has abandoned many of these principles. True, Apple’s design guidelines for developers for both iOS and the Mac OS X still pay token homage to the principles, but, inside Apple, many of the principles are no longer practiced at all. Apple has lost its way, driven by concern for style and appearance at the expense of understandability and usage.
+
 
 Apple is destroying design.
 
