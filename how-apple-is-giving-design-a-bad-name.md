@@ -1,8 +1,8 @@
 > * 原文链接 : [How Apple Is Giving Design A Bad Name](http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name)
 * 原文作者 : [Don Norman ](http://www.fastcodesign.com/user/don-norman-and-bruce-tognazzini)
 * 译文出自 : [掘金翻译计划](https://github.com/xitu/gold-miner)
-* 译者 : `iThreeKing <https://github.com/iThreeKing>`_ `crackhy(曹康)<https://github.com/crackh>`_
-* 校对者 :`achilleo(Tao LIU)<https://github.com/achilleo>`_
+* 译者 : [iThreeKing](https://github.com/iThreeKing) [曹康](https://github.com/crackh)
+* 校对者 :[Tao LIU](https://github.com/achilleo)
 * 状态 :  翻译完成
 
 苹果正在带坏整个设计圈
