@@ -1,4 +1,4 @@
-News & Articles Translation by iThreeKing.
+News & Articles Translated by iThreeKing.
 ===========
 
 
