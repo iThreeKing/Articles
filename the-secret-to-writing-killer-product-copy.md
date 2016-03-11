@@ -104,35 +104,50 @@ Same with [Stripe<sup class="readableLinkFootnote">[7]</sup>](https://stripe.com
 ![](/images/loading.png)
 
 [PillPack<sup class="readableLinkFootnote">[8]</sup>](https://www.pillpack.com/) is an online pharmacy that ships prescription medicine right to your door. It would be pretty easy for them to get into the weeds of their business, but they keep things simple, clean and clear.
-[PillPack<sup class="readableLinkFootnote">[8]</sup>](https://www.pillpack.com/)
+[PillPack<sup class="readableLinkFootnote">[8]</sup>](https://www.pillpack.com/) 是一个可以派送处方药上门的在线药店。虽然这会使他们的业务陷入混杂的状况，但是他们保持事情简单、干净和清楚。
 
 The key to rememeber as a marketer is that your job is not to stuff an entire idea down someone's throat the first time they visit your website. Your goal should always be to get someone interested enough to take the next step. PillPack does that by offering a better, simpler experience — something that most people don't expect to get from a pharmacy.
+要记住作为营销者的关键是，你的工作并不是在某个人第一次访问你的网站时，把你的整个想法都灌输给他。你的目标应该总是当他足够感兴趣再进行下一步。PillPack 就是这样提供更好更简单的用户体验 － 绝大多数人不会从一家药店得到的东西。
+
 
 ![](https://cdn-images-1.medium.com/max/800/1*TvJkUD1Yh4el6OpIHZbuaA.png)
 
 ![](https://cdn-images-1.medium.com/max/800/1*oBhqDdpheneEEZGP53rsug.png)
 
 ### Finding Inspiration For Customer-Driven Copy
+### 寻求客户驱动文案的灵感
 
 I'm going to share a secret with you to help with your next blog post, email, landing page, whatever.
+我将分享一个小秘密来帮助你完成下一篇博客、邮件、登陆页等等。
 
 **Your customers are all over the Internet writing things in _their own words._**
+**你的客户在互联网上写东西，用_他们自己的文字_**
 
 Instead of trying to get inside of your customer's head or staring at a blank screen thinking to yourself “what would a customer say?” you can go out and _find_ those messages to use in your copy — and you don't even need to be a good writer.
+你可以跳出思维定式并_找到_那些在你文案中使用的信息，即使你不是一个好的写手，而不是试图进入客户的大脑或者盯着一片空白的屏幕自己思考“客户会说些什么呢？”
+
 
 Here are a few places to look.
+这里还有一些需要注意的地方。
 
 #### Notes From Customer Development
+#### 记录客户的发展情况
 
 Get tight with your product managers, designers, sales reps, and anyone who is talking to customers daily. If they're any good at their job, they will have pages and pages of notes of things customers said directly. Use those notes to write messages in the words of your customers. Why make things harder than they need to be? Say it how they say it.
+加强与你的产品经理、设计者、销售代表还有任何每天与用户交流的人之间的联系。如果他们很擅长他们的工作，他们会有很多用户所直接谈及的笔记。使用这些笔记写出用客户自己的话来说的文案信息。为什么要强行增加难度呢？就用他们说话的方式来描述它就好。
+
 
 #### Quora
 
 I've been spending a lot of time (again) on Quora. It's an incredible resource because the intent is so high: someone came to a question and answer site to ask a question about something. It's one thing to think it, it's another thing to go over to Quora and ask a question.
+我曾经花了很多时间逛 Quora 。它是一种难以置信的资源，因为它包含的意图如此之高：一个人来到问答页面来问提问关于某件事的问题。自己思考它是一回事，跑去 Quora 问个问题是另外一回事。
 
 We have a tool that helps you measure NPS inside of your app, so I've been spending a lot of time trying to figure out how people talk about NPS in their own words.
+我们有一个帮助计算自己应用内部 NPS (Net Promoter Score,即净推荐值，又称净促进者得分) 的工具，所以我曾花了很多时间试图查明人们如何用自己的话来谈论 NPS 。
 
 Quora has been a goldmine, and many of the comments there helped [to write this post on NPS<sup class="readableLinkFootnote">[9]</sup>](http://blog.drift.com/how-to-measure-nps).
+Quora 像一个知识宝库并且这里有很多评论来帮助 [完成这篇关于 NPS 的文章<sup class="readableLinkFootnote">[9]</sup>] (http://blog.drift.com/how-to-measure-nps)。
+
 
 ![](https://cdn-images-1.medium.com/max/800/1*6IE0XgdoE_5kHqVsJstQHw.png)
 
@@ -141,31 +156,44 @@ Quora has been a goldmine, and many of the comments there helped [to write this 
 ![](https://cdn-images-1.medium.com/max/800/1*H53Xv24OI2rdMr5teK08kQ.png)
 
 #### Product Hunt
+#### 
 
 There are rarely brand new ideas or products anymore. Use this to your advantage. [Product Hunt<sup class="readableLinkFootnote">[11]</sup>](https://medium.com/u/b8b4445269d0) comments can be a great resource for copy.
+现在少有全新的想法或者产品了。你可以把它变成你的优势。[Product Hunt<sup class="readableLinkFootnote">[11]</sup>](https://medium.com/u/b8b4445269d0) 的评论可以为文案提供优秀的资源库。
+
 
 The great part about Product Hunt is that the community is super active, so there are usually a lot of comments from users of that particular product.
+Product Hunt 最棒的地方就是它的社区十分活跃，所以这里经常有许多来自特殊产品用户的评论。
 
 We recently [launched a free tool<sup class="readableLinkFootnote">[12]</sup>](http://www.drift.com/daily) that shows you who your VIP leads are (you get a daily email or Slack notifications) so I plugged a few ideas into the search box on Product Hunt and found a few startups that had built similar tools in the past but had been acquired and then shutdown.
+我们最近发布了一款[免费工具<sup class="readableLinkFootnote">[12]</sup>](http://www.drift.com/daily)，它会向你展示你的 VIP 用户是谁(你会收到每日邮件或者 Slack 通知)，于是我在 Product Hunt 的搜索框中搜索了一下，然后发现了几个之前也做过类似工具的创业公司，但是他们做完这个就倒闭了。
 
 These comments were a huge help for writing a lot of the copy for the new free tool:
+这些评论将会对写关于新的免费应用文案有巨大帮助：
 
 ![](https://cdn-images-1.medium.com/max/800/1*vUiPtTBI5nIhIzS0DWLk2Q.png)
 
 ![](https://cdn-images-1.medium.com/max/800/1*53Uv1idisFryFun56nBuFg.png)
 
 #### Social Media
+#### 社交媒体
 
 It's easy to dismiss tweets. They're nice, we're vain, it's fun to see people sharing tweets about your product. But try and go one step further — what did they say? How did they say it?
+不理会推特容易。他们有趣，我们自负，看到人们分享关于你产品的推特很有趣。但是尝试进一步考虑 － 他们说了什么？他们如何说这些？
 
 There are two things most people do with tweets:
+绝大多数人会用推特做这两件事：
 
 *   Re-write them in their own words so the tweet sounds original
+*   用自己的话重写推特，所以推特看起来比较正常
 *   Re-write them in their own words so the tweet can fit in 140 characters
+*   用自己的话重写推特，让它刚好符合 140 词的要求
 
 Bingo. You can use tweets about your products as inspiration for copy. These are people saying things in their own words.
+当然，你可以把关于你自己产品的推特作为文案的灵感。它们就是用他们自己的话来描述事物。
 
 For example: new leads with context. That's not a message we led with for Drift, but it's a great message!
+举个例子：
 
 #### Amazon Reviews
 
